@@ -4,7 +4,7 @@ In this folder you will be able to find all documents taht were used in **HackCU
 KRYPTIA was able to win the 1st Prize in that competition!!
 
 Please, if you ever make use of it, contact us and give credits to:
-Roger Huerta (roger.huerta@colorado.edu)
-Miquel Ricart (miquelro97@gmail.com)
+- Roger Huerta (roger.huerta@colorado.edu)
+- Miquel Ricart (miquelro97@gmail.com)
 
 Thank you, world!!
